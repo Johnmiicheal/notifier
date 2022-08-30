@@ -5,5 +5,5 @@ An exploration of AWS Lambda Functions and AWS API Gateway, the Lambda functions
 * Create a service using Flask framework `completed`
 * Install and configure the AWS CLI `completed`
 * Use the CLI to create S3 buckets and upload files `completed`
-* Install and configure Zappa `staging`
-* Deploy the application using Zappa
+* Install and configure Zappa `completed`
+* Deploy the application using Zappa `nah, i'm done`
